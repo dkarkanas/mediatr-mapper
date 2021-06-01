@@ -1,8 +1,8 @@
 ﻿using System;
 using System.Reflection;
 using System.Threading.Tasks;
+using MappingWithMediatr.ServiceA;
 using MappingWithMediatr.ServiceB;
-using MappingWithMediatr.Services;
 using MediatR;
 using Microsoft.Extensions.DependencyInjection;
 

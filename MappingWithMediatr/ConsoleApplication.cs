@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Threading.Tasks;
+using MappingWithMediatr.ServiceA;
 using MappingWithMediatr.ServiceB;
-using MappingWithMediatr.Services;
 
 namespace MappingWithMediatr
 {
